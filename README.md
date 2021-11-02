@@ -7,3 +7,4 @@ Ideas:
 - You have to find the bug in a code
 - You are a bug trying to avoid getting hit by a swatter
 - Clicker Game about ants
+- Ants want to eat you, dodge them!
