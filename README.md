@@ -3,8 +3,12 @@ My first ever game jam! It is Game Off 2021 and I am going to use pygame to crea
 
 Ideas:
 - Putting a bug on a car then following it, with a game like that
-- Smashing bugs and killing them
+- Smashing bugs and killing them (X)
 - You have to find the bug in a code
-- You are a bug trying to avoid getting hit by a swatter
+- You are a bug trying to avoid getting hit by a swatter (X)
 - Clicker Game about ants
-- Ants want to eat you, dodge them!
+- Ants want to eat you, dodge them! (X)
+
+Polishing the ideas I like more:
+
+
